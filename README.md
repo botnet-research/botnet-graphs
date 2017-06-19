@@ -11,7 +11,7 @@ If you want to get more details about how these graphs have been created or if y
 We publish snapshots in two different categories. Individual snapshots can be found under **Individual Snapshots** and usually describe a certain situation. In addition we provide series of snapshots in fixed intervals.
 Currently we have data for two P2P botnets: Sality and ZeroAccess.
 ## Graph Structure
-Graphs in this repository are provided as compressed GraphML files. IP addresses are anonymized and cannot be grouped into subnets. However, hased IP addresses are consitnet in all graphs.
+Graphs in this repository are provided as compressed GraphML files. IP addresses are anonymized and cannot be grouped into subnets. However, hased IP addresses are consistent in all graphs.
 
 **File Naming Convention:**  
 Core: Only nodes/bots that have unfiltered internet access, i.e., superpeers  
